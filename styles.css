@@ -1,0 +1,33 @@
+#top-banner{
+    font-size: 4em;
+    font-family: bannerFont;
+    background: rgba(18, 1, 78, 0.7);
+    color: rgb(255, 255, 255, 1);
+    height: 1.5em;
+    text-align: center;
+    margin: auto;
+    padding-top: 30px;
+    
+}
+
+#jordan-background-img{
+    max-width: 100%;
+    height: auto;
+    filter: blur(10);
+}
+
+#id-generator-container{
+    position: relative;
+    
+}
+
+#jordan-background-container{
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+@font-face {
+    font-family: bannerFont;
+    src: url("fonts/Proxima\ Nova\ Font.otf");
+}
